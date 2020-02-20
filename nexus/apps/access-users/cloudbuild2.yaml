@@ -1,0 +1,3 @@
+steps:
+- name: 'ubuntu'
+  args: ['echo', 'cloud build has run(for non master)!']
