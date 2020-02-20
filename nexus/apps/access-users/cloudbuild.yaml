@@ -1,3 +1,3 @@
 steps:
 - name: 'ubuntu'
-  args: ['echo', 'cloud build has run!']
+  args: ['echo', 'cloud build has run on: ${_STAGE}!']
